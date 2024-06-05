@@ -10,6 +10,24 @@ Bounce Battle is an exciting and fast-paced table tennis game developed in Pytho
 - **Responsive Controls**: Experience precise and responsive paddle control for accurate gameplay.
 - **Customizable Settings**: Adjust the game speed, paddle size, and ball dynamics to your liking.
 
+## Snapshots
+
+![Screenshot 1](readme-image/ss_01.png)
+*Initialization*
+
+![Screenshot 2](readme-image/ss_02.JPG)
+*Player - 1*
+
+![Screenshot 3](readme-image/ss_03.JPG)
+*Player - 2*
+
+![Screenshot 4](readme-image/ss_04.png)
+*Game controls*
+
+![Screenshot 5](readme-image/ss_05.png)
+*Gameplay*
+
+
 ## Installation
 
 1. Clone the repository:
