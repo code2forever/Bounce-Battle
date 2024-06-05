@@ -61,7 +61,7 @@ Bounce Battle is an exciting and fast-paced table tennis game developed in Pytho
 
 - **Player 1 Controls**: Use the `W` and `S` keys to move the paddle up and down.
 - **Player 2 Controls**: Use the `Up Arrow` and `Down Arrow` keys to move the paddle up and down.
-- The first player to reach 10 points wins the game.
+- The first player to lose 5 lives loses the game.
 
 ## Contributing
 
